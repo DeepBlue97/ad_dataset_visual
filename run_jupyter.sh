@@ -1,0 +1,1 @@
+jupyter notebook --config=/home/peter/.jupyter/jupyter_notebook_config.py
